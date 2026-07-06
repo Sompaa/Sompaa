@@ -1,52 +1,28 @@
-# 🧬 Hi, I'm Sompaa 👨‍🔬
+# Hi, I'm Sompaa
 
-> "Turning biological chaos into structured data."
+I work on cell analysis, mainly building AI-based workflows and the software behind them. Based in Szeged, Hungary.
 
----
+Day to day that means a mix of image/data analysis pipelines, some HPC work, and writing tools other people in the lab can actually use.
 
-## 🚀 About Me
+## Links
 
-- 🔬 Cell analysis | Bioimage informatics | AI/ML for biology
-- 🤖 Building AI-driven workflows and software for cell-level image and data analysis
-- ⚙️ HPC & scientific software development
-- 🇭🇺 Based in Szeged
+- LinkedIn: [TODO: add link]
+- ORCID: [TODO: add link]
+- Lab/Institute: [TODO: add link]
 
----
+## Publications
 
-## 🛰️ Social Media
+- [TODO: paper title] — [TODO: DOI link]
+- [TODO: paper title] — [TODO: DOI link]
 
-- 🔗 [LinkedIn](#) — [TODO: add link]
-- 🧬 [ORCID](#) — [TODO: add link]
-- 🏢 [Lab/Institute](#) — [TODO: add link]
+## Projects
 
----
-
-## 📚 Selected Publications
-
-- 🧾 *[TODO: paper title]*
-  [TODO: DOI link]
-
-- 🧾 *[TODO: paper title]*
-  [TODO: DOI link]
+- [TODO: project name] — [TODO: link] — one line on what it does
+- [TODO: project name] — [TODO: link] — one line on what it does
+- [TODO: project name] — [TODO: link] — one line on what it does
 
 ---
 
-## 🧪 Featured Projects
+![frog](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
-- 📈 [TODO: project name] — [TODO: link] — short description of the AI/cell-analysis software
-- 📊 [TODO: project name] — [TODO: link] — short description of the AI/cell-analysis software
-- 🛠️ [TODO: project name] — [TODO: link] — short description of the AI/cell-analysis software
-
----
-
-## 🧑‍🔬 Research Interests
-
-Working at the intersection of cell biology and AI — building workflows and tools that turn raw imaging and experimental data into structured, analyzable results.
-
-![frog!](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
-
----
-
-## </> Coding Activity
-
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Sompaa)](https://github.com/Sompaa/Sompaa)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=Sompaa)](https://github.com/Sompaa/Sompaa)
