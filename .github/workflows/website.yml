@@ -16,6 +16,7 @@ jobs:                     # the stuff that will be performed
         token: ${{ secrets.GITHUB_TOKEN }}    # don't mind this, GH needs secrets, and has this as a default one. Just copy/paste, no need to generate a token... for now
         files: |-                   # the Markdown file to use
           README.md
+        custom_css: custom.css       # centers the page instead of left-aligning it
     - uses: actions/upload-pages-artifact@v3    # packages the website into an artifact (like a zip/tar) that can be deployed as a GH page
       with:
         path: dist        # I don't know what this is
