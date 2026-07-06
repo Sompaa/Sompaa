@@ -23,6 +23,6 @@ Day to day that means a mix of image/data analysis pipelines, some HPC work, and
 
 ---
 
-![frog](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+![frog](https://media1.tenor.com/m/YUzRkMOL-3EAAAAd/programming-computer-frog.gif)
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=Sompaa)](https://github.com/Sompaa/Sompaa)
